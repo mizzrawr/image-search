@@ -1,0 +1,26 @@
+.jumbotron {
+  background-color: rgba(233, 171, 202, 0.767);
+}
+.app {
+  font-size: 1rem;
+}
+img {
+  width: 100%;
+  height: 225px;
+  object-fit: fill;
+  border: 2px solid black;
+}
+.card {
+  background-color: none;
+  -webkit-box-shadow: 21px -12px 13px -7px rgba(201, 163, 173, 1);
+  -moz-box-shadow: 21px -12px 13px -7px rgba(201, 163, 173, 1);
+  box-shadow: 21px -12px 13px -7px rgb(88, 64, 70);
+}
+.btn {
+  border: 1px solid white;
+  cursor: pointer;
+}
+.card-body {
+  background-color: #da524d81;
+  border: 1px solid black;
+}
