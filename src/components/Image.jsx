@@ -20,7 +20,7 @@ const Image = (props)=>{
         <div className="card-body">
         <p className="card-text">{likes} I 💗  it  </p>
         <p className="card-text">{views} Views 👀  </p>
-        <a onClick="URL" href={largeImageURL} target="_blank" className="btn btn-primary btn-block">I want this! </a>
+        <a onClick="URL" href={largeImageURL} className="btn btn-primary btn-block">I want this! </a>
         </div>
 
             </div>
